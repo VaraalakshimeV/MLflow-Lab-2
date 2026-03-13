@@ -39,6 +39,8 @@ MLflow-Lab-2/
 
 <img width="956" height="437" alt="Image" src="https://github.com/user-attachments/assets/e3fb7033-ab44-4431-b1e4-dd5242e16b2c" />
 
+<img width="1909" height="890" alt="Image" src="https://github.com/user-attachments/assets/b32181d7-46ae-49a3-8309-d70c9f99a8ff" />
+
 
 ## How to Run
 1. Clone the repo: `git clone https://github.com/VaraalakshimeV/MLflow-Lab-2.git`
