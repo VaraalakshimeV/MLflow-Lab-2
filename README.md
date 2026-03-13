@@ -35,23 +35,7 @@ MLflow-Lab-2/
 | Random Forest | _add your score_ |
 | XGBoost | _add your score_ |
 
-### MLflow Experiment Tracking
-<!-- Add your MLflow screenshot here: just drag and drop the image below this line -->
-
-
-### MLflow Model Details
-<!-- Add your MLflow model screenshot here -->
-
-
-### EDA - Churn Distribution
-<!-- Add your churn distribution plot screenshot here -->
-
-
-### Feature Importance
-<!-- Add your feature importance plot screenshot here -->
-
-
-### Correlation Heatmap
+### MLflow Experiment Tracking and MLflow Model Details
 
 
 
