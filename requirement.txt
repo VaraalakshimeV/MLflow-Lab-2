@@ -1,0 +1,9 @@
+pandas
+scikit-learn
+mlflow
+seaborn
+matplotlib
+numpy
+cloudpickle
+xgboost
+requests
