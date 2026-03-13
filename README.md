@@ -32,8 +32,7 @@ MLflow-Lab-2/
 ### Model Comparison
 | Model | AUC Score |
 |-------|-----------|
-| Random Forest | 
-0.78 |
+| Rf      | 0.78 |
 | XGBoost |0.84 |
 
 ### MLflow Experiment Tracking and MLflow Model Details
@@ -58,5 +57,3 @@ MLflow-Lab-2/
 - Pandas, NumPy — Data processing
 - Seaborn, Matplotlib — Visualization
 
-## Author
-Varaalakshime V — Northeastern University, MS Data Analytics Engineering
