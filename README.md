@@ -37,7 +37,7 @@ MLflow-Lab-2/
 
 ### MLflow Experiment Tracking and MLflow Model Details
 
-
+![MLflow Training Runs](<>)
 
 ## How to Run
 1. Clone the repo: `git clone https://github.com/VaraalakshimeV/MLflow-Lab-2.git`
