@@ -32,14 +32,17 @@ MLflow-Lab-2/
 ### Model Comparison
 | Model | AUC Score |
 |-------|-----------|
-| Random Forest | _add your score_ |
-| XGBoost | _add your score_ |
+| Random Forest | 
+0.78 |
+| XGBoost |0.84 |
 
 ### MLflow Experiment Tracking and MLflow Model Details
 
 <img width="956" height="437" alt="Image" src="https://github.com/user-attachments/assets/e3fb7033-ab44-4431-b1e4-dd5242e16b2c" />
 
 <img width="1909" height="890" alt="Image" src="https://github.com/user-attachments/assets/b32181d7-46ae-49a3-8309-d70c9f99a8ff" />
+
+<img width="1919" height="957" alt="Image" src="https://github.com/user-attachments/assets/51525413-939e-41e8-9cff-bdf66be2c2c2" />
 
 
 ## How to Run
