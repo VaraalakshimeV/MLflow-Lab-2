@@ -1,0 +1,39 @@
+artifact_path: file:///c:/Users/varup/Downloads/MLflow-Lab-2/mlruns/0/models/m-aaaf893aa6624cb1afa8bf2bbb30e01d/artifacts
+flavors:
+  python_function:
+    cloudpickle_version: 3.1.2
+    code: null
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.pyfunc.model
+    python_model: python_model.pkl
+    python_version: 3.11.9
+    streamable: false
+is_signature_from_type_hint: false
+mlflow_version: 3.10.1
+model_id: m-aaaf893aa6624cb1afa8bf2bbb30e01d
+model_size_bytes: 298799
+model_uuid: m-aaaf893aa6624cb1afa8bf2bbb30e01d
+prompts: null
+run_id: 1724a474d1504769bcc304fec7b49d74
+signature:
+  inputs: '[{"type": "integer", "name": "gender", "required": true}, {"type": "long",
+    "name": "SeniorCitizen", "required": true}, {"type": "integer", "name": "Partner",
+    "required": true}, {"type": "integer", "name": "Dependents", "required": true},
+    {"type": "long", "name": "tenure", "required": true}, {"type": "integer", "name":
+    "PhoneService", "required": true}, {"type": "integer", "name": "MultipleLines",
+    "required": true}, {"type": "integer", "name": "InternetService", "required":
+    true}, {"type": "integer", "name": "OnlineSecurity", "required": true}, {"type":
+    "integer", "name": "OnlineBackup", "required": true}, {"type": "integer", "name":
+    "DeviceProtection", "required": true}, {"type": "integer", "name": "TechSupport",
+    "required": true}, {"type": "integer", "name": "StreamingTV", "required": true},
+    {"type": "integer", "name": "StreamingMovies", "required": true}, {"type": "integer",
+    "name": "Contract", "required": true}, {"type": "integer", "name": "PaperlessBilling",
+    "required": true}, {"type": "integer", "name": "PaymentMethod", "required": true},
+    {"type": "double", "name": "MonthlyCharges", "required": true}, {"type": "double",
+    "name": "TotalCharges", "required": true}]'
+  outputs: '[{"type": "tensor", "tensor-spec": {"dtype": "float32", "shape": [-1]}}]'
+  params: null
+type_hint_from_example: false
+utc_time_created: '2026-03-13 19:24:53.756568'
